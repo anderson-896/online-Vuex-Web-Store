@@ -3,6 +3,7 @@
 
 An online Web Store made with VueJS and Vuex
 
+![alt text](https://raw.githubusercontent.com/anderson-896/online-Vuex-Web-Store/master/print.png)
 
 ## Build Setup
 
