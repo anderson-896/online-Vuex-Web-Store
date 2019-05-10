@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 # online-Vuex-Web-Store
 
 > An online Web Store made with VueJS and Vuex
+=======
+# consultaremedios
+
+> A Vue.js project
+>>>>>>> 643e112a4320e458288d0392506fe5da69762bd2
 
 ## Build Setup
 
