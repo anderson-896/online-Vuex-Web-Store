@@ -1,6 +1,7 @@
 # online-Vuex-Web-Store
 
-> An online Web Store made with VueJS and Vuex
+An online Web Store made with VueJS and Vuex
+
 
 ## Build Setup
 
